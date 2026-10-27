@@ -1,0 +1,15 @@
+# Privacy Policy — Game Simulation Tracker
+
+## Data We Collect
+- Discord User ID
+- Current game and progress count
+- Earned badge names
+
+## Storage
+Data is stored in a local JSON file on the bot host.
+No data is sold or shared with third parties.
+
+## Deletion
+Contact the bot owner on Discord to request deletion.
+
+Contact: your_username on Discord
